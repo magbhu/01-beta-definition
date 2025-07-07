@@ -1,0 +1,53 @@
+{
+  "India": {
+    "Index": "NIFTYBANK",
+    "Index_Beta": "1.20 (approx vs NIFTY 50)",
+    "Large_Cap_Banks": [
+      {"name": "HDFC Bank", "beta": 1.24},
+      {"name": "ICICI Bank", "beta": 0.99},
+      {"name": "Axis Bank", "beta": 1.30},
+      {"name": "State Bank of India (SBI)", "beta": 1.04}
+    ],
+    "Insights": "Private sector banks like HDFC and Axis show higher beta, indicating greater sensitivity to market movements compared to PSU banks like SBI.",
+    "Insights_TA": "ஹெட்சிஎப்சி மற்றும் ஆக்சிஸ் போன்ற தனியார் வங்கிகள் அதிக பீட்டாவை காட்டுகின்றன, சந்தை மாற்றங்களுக்கு அதிகம் நுணுக்கமானவை.",
+    "Insights_HI": "एचडीएफसी और एक्सिस जैसे निजी बैंक उच्च बीटा प्रदर्शित करते हैं, जो बाजार की चालों के प्रति अधिक संवेदनशीलता को दर्शाते हैं, जबकि एसबीआई जैसे सार्वजनिक क्षेत्र के बैंक तुलनात्मक रूप से स्थिर होते हैं।"
+  },
+  "USA": {
+    "Index": "Dow Jones U.S. Banks Index",
+    "Index_Beta": "1.10 (estimated vs S&P 500)",
+    "Large_Cap_Banks": [
+      {"name": "JPMorgan Chase", "beta": 1.15},
+      {"name": "Bank of America", "beta": 1.30},
+      {"name": "Wells Fargo", "beta": 1.25},
+      {"name": "Citigroup", "beta": 1.40}
+    ],
+    "Insights": "U.S. money center banks exhibit high beta values, reflecting their exposure to global macroeconomic cycles and interest rate volatility.",
+    "Insights_TA": "அமெரிக்க மைய வங்கிகள் அதிக பீட்டாவைக் காட்டுகின்றன, இது உலகளாவிய பொருளாதார சுழற்சி மற்றும் வட்டி விகித வேறுபாடுகளுக்கான எதிர்பார்ப்பைக் பிரதிபலிக்கின்றது.",
+    "Insights_HI": "अमेरिकी बैंकों में उच्च बीटा देखने को मिलता है, जो उनके वैश्विक आर्थिक चक्र और ब्याज दर की अस्थिरता के प्रति उच्च जोखिम को दर्शाता है।"
+  },
+  "UK": {
+    "Index": "FTSE 350 Banks Index",
+    "Index_Beta": "0.95 (approx vs FTSE 100)",
+    "Large_Cap_Banks": [
+      {"name": "HSBC Holdings", "beta": 1.00},
+      {"name": "Barclays", "beta": 1.20},
+      {"name": "Lloyds Banking Group", "beta": 1.10},
+      {"name": "NatWest Group", "beta": 1.05}
+    ],
+    "Insights": "UK banks show moderate beta values, with Barclays being more volatile due to its investment banking exposure.",
+    "Insights_TA": "பார்க்லேஸ் முதலீட்டு வங்கித் தொடர்பால் அதிக பீட்டா மதிப்பைக் கொண்டுள்ளது, பிற யூகே வங்கிகள் மிதமான நிலைப்பாட்டைக் கொண்டுள்ளன.",
+    "Insights_HI": "यूके के बैंक मध्यम बीटा स्तर पर हैं, जिनमें बार्कलेज निवेश बैंकिंग के कारण सबसे अधिक अस्थिरता दिखाता है।"
+  },
+  "Japan": {
+    "Index": "TOPIX Banks Index",
+    "Index_Beta": "0.85 (approx vs TOPIX)",
+    "Large_Cap_Banks": [
+      {"name": "Mitsubishi UFJ Financial Group", "beta": 0.90},
+      {"name": "Sumitomo Mitsui Financial Group", "beta": 0.88},
+      {"name": "Mizuho Financial Group", "beta": 0.85}
+    ],
+    "Insights": "Japanese banks tend to have lower beta values, reflecting the country's stable but low-growth financial environment.",
+    "Insights_TA": "ஜப்பான் வங்கிகள் குறைந்த பீட்டா மதிப்புகளைக் கொண்டிருக்கின்றன, இது ஒரே மாதிரியான ஆனால் வளர்ச்சி குறைந்த பொருளாதார சூழலை பிரதிபலிக்கின்றது.",
+    "Insights_HI": "जापानी बैंक कम बीटा प्रदर्शित करते हैं, जो स्थिर लेकिन धीमी गति से बढ़ने वाली आर्थिक स्थिति को दर्शाता है।"
+  }
+}

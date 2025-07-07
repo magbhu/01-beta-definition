@@ -1,0 +1,108 @@
+{
+  "title": {
+    "en": "Beta measures ",
+    "ta": "பீட்டா .",
+    "hi": "बीटा "
+  },
+  "definition": {
+    "en": "Beta measures the volatility of a stock or portfolio relative to market movements.",
+    "ta": "பீட்டா என்பது சந்தை இயக்கங்களை ஒப்பிடும் ஒரு பங்கு அல்லது போர்ட்ஃபோலியோவின் மாறுபாட்டை அளவிடும் ஒரு அளவீடு.",
+    "hi": "बीटा बाजार की गति के सापेक्ष किसी स्टॉक या पोर्टफोलियो की अस्थिरता को मापता है।"
+  },
+  "formula": {
+    "en": "β = Cov(R_stock, R_market) / Var(R_market)",
+    "ta": "β = Cov(R_stock, R_market) / Var(R_market)",
+    "hi": "β = Cov(R_stock, R_market) / Var(R_market)"
+  },
+  "use_cases": {
+    "en": {
+      "stock": "Used in CAPM to calculate expected return and evaluate market-driven risk.",
+      "portfolio": "Helps adjust portfolio exposure and supports strategic rebalancing."
+    },
+    "ta": {
+      "stock": "CAPM மூலம் எதிர்பார்க்கப்படும் வருமானம் மற்றும் சந்தை சார்ந்த அபாயத்தை கணக்கிட பயன்படுகிறது.",
+      "portfolio": "போர்ட்ஃபோலியோ உள்ளடக்கத்தை சரிசெய்யவும் மறுஉறுப்பாய்வை ஆதரிக்கவும் உதவுகிறது."
+    },
+    "hi": {
+      "stock": "CAPM में अपेक्षित रिटर्न की गणना और बाजार-प्रेरित जोखिम का मूल्यांकन करने में प्रयोग होता है।",
+      "portfolio": "पोर्टफोलियो एक्सपोज़र को समायोजित करने और पुनर्संतुलन में सहायक।"
+    }
+  },
+  "external_references": {
+    "news_channels": [
+      "CNBC TV18",
+      "Zee Business",
+      "CNN Business",
+      "Bloomberg",
+      "ET Now"
+    ],
+    "youtube_channels": [
+      "Pranjal Kamra",
+      "CA Rachana Phadke Ranade",
+      "Graham Stephan",
+      "The Financial Diet",
+      "Andrei Jikh"
+    ],
+    "educational_sources": [
+      "Zerodha Varsity",
+      "Corporate Finance Institute",
+      "Khan Academy",
+      "Investopedia",
+      "MyMoney.gov"
+    ]
+  }
+  
+  "regional_summaries": [
+    {
+      "country": "India",
+      "index": "NIFTY Bank Index",
+      "beta_range": "1.2",
+      "volatility": "High Volatility",
+      "notes": "Sensitive to macroeconomic shifts"
+    },
+    {
+      "country": "USA",
+      "index": "Dow Jones Banking Index",
+      "beta_range": "0.52–0.88",
+      "volatility": "Moderate Volatility",
+      "notes": "Wide range by bank size"
+    },
+    {
+      "country": "UK",
+      "index": "FTSE Banks",
+      "beta_range": "0.6–1.0",
+      "volatility": "Moderate Volatility",
+      "notes": "Global vs domestic split"
+    },
+    {
+      "country": "Japan",
+      "index": "Tokyo Banks",
+      "beta_range": "<0.7",
+      "volatility": "Low Volatility",
+      "notes": "Stable, conservative lending model"
+    }
+  ],
+  "external_references": {
+    "news_channels": [
+      "CNBC TV18",
+      "Zee Business",
+      "CNN Business",
+      "Bloomberg",
+      "ET Now"
+    ],
+    "youtube_channels": [
+      "Pranjal Kamra",
+      "CA Rachana Phadke Ranade",
+      "Graham Stephan",
+      "The Financial Diet",
+      "Andrei Jikh"
+    ],
+    "educational_sources": [
+      "Zerodha Varsity",
+      "Corporate Finance Institute",
+      "Khan Academy",
+      "Investopedia",
+      "MyMoney.gov"
+    ]
+  }
+}
